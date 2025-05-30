@@ -1,8 +1,8 @@
-AI Resume Screener
-Project Overview
+***AI Resume Screener***
+*Project Overview*
 The AI Resume Screener is a Streamlit-based application that automates the initial screening of job applicants by analyzing their resumes against predefined job role requirements. It uses NLP techniques to extract skills and calculate match scores, helping recruiters quickly identify top candidates.
 
-Features
+*Features*
 Automated Resume Scoring: Analyzes resumes and assigns match scores based on job-specific keywords
 
 Multiple Job Roles: Predefined templates for Data Scientist, AI Engineer, Software Engineer, and DevOps roles
